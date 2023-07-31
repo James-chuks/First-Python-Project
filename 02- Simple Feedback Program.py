@@ -25,7 +25,7 @@ print ('Okay ' + age)
 # 03- Maybe you want to let them you may need other things from them,
 
 ""
-print ('I will love to know more about you, are you willing to proceed ')
+print ('I will love to know more about you, are you willing to proceed? ')
 ""
 
 # 04- we can also ask them another question if, for instance, we want to find out about their complexion
