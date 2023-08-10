@@ -1,7 +1,7 @@
 #! TITTLE ==>   A SIMPLE FEEDBACK PROGRAM
-""
+
 # Uncomment Code as preferred to run properly.
-""
+
 # So we are going to create a program where our users will be asked Some Simple Questions and they will be expected to supply an answer.
 
 # So it is important to learn how to add comments in your code so as to enable someone else,
@@ -26,15 +26,12 @@
 
 # 03- Maybe you want to let them you may need other things from them,
 
-""
 # print ('I will love to know more about you, are you willing to proceed? ')
-""
 
 # 04- we can also ask them another question if, for instance, we want to find out about their complexion
 # complexion = input ('...what is your complexion, (black or white): ')
 
 # print ('cool, ' + complexion)
-
 
 # 05- We can go further to ask them more questions if want, maybe their favorite food 
 # food = input ('...what is your favorite food, (Garri & Soup or Rice): ')
@@ -44,8 +41,7 @@
 # So you can see that for every input we customized the output result plus what the user supplied.
 
 # 06- So to close out of our Simple Feedback program, we can say:
-""
+
 # print ('Alright Bye, See you again!. ')
-""
-""
-""
+
+
